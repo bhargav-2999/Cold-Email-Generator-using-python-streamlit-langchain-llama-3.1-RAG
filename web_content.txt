@@ -1,0 +1,644 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Open Virtual Assistant
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Career Areas
+
+
+Total Rewards
+
+
+Life@Nike
+
+
+Purpose
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+
+
+Select a Language
+
+  Deutsch  
+  English  
+  Español (España)  
+  Español (América Latina)  
+  Français  
+  Italiano  
+  Nederlands  
+  Polski  
+  Tiếng Việt  
+  Türkçe  
+  简体中文  
+  繁體中文  
+  한국어  
+  日本語  
+
+
+
+
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close Menu
+
+
+
+
+
+
+
+Careers
+
+
+
+
+
+
+Chat
+
+
+
+
+
+
+                                Home
+                            
+
+
+
+                                Career Areas
+                            
+
+
+
+                                Total Rewards
+                            
+
+
+
+                                Life@Nike
+                            
+
+
+
+                                Purpose
+                            
+
+
+
+
+
+
+
+
+
+
+Jordan Careers
+
+
+
+
+
+
+
+Converse Careers
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Return to Previous Menu
+
+
+
+Select a Language
+
+  Deutsch  
+  English  
+  Español (España)  
+  Español (América Latina)  
+  Français  
+  Italiano  
+  Nederlands  
+  Polski  
+  Tiếng Việt  
+  Türkçe  
+  简体中文  
+  繁體中文  
+  한국어  
+  日本語  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Back to Search
+
+                            
+
+Data Engineer
+
+
+Categories ID
+
+
+
+Categories URL
+
+
+
+Position Type
+
+
+
+Date Posted
+
+
+
+Primary Quest ID
+
+
+
+Second Quest ID
+
+
+
+Job Classification
+
+
+
+
+Career area
+Analytics
+
+
+Location
+1 Bowerman Drive, Beaverton, Oregon 97005, United States
+
+
+
+Job ID
+R-51131
+
+
+
+
+
+                                    Apply Now
+                                
+
+
+
+
+
+
+Share Job
+
+
+
+
+Share Job Posting
+
+
+
+
+
+
+Facebook
+Opens In A New Tab
+
+
+
+
+
+
+
+LinkedIn
+Link Opens In New Window
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+Close-Medium (Default Size)-icon
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Become a Part of the NIKE, Inc. Team
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore
+                            potential, obliterate boundaries
+                            and push out the edges of what can be. The company looks for people who can grow, think,
+                            dream and create. Its
+                            culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers,
+                            leaders and
+                            visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a
+                            challenging and constantly
+                            evolving game.
+
+Data Engineer - NIKE, Inc. - Beaverton, OR. Design and implement features in collaboration with product owners, data analysts, and business partners using Agile / Scrum methodology; contribute to overall architecture, frameworks and patterns for processing and storing large data volumes; design and implement distributed data processing pipelines using tools and languages prevalent in the Hadoop or Cloud ecosystems; build utilities, user defined functions, and frameworks to better enable data flow patterns; build and develop job orchestration and scheduling using Airflow; research, evaluate and utilize new technologies/tools/frameworks centered around high-volume data processing; define and apply appropriate data acquisition and consumption strategies for given technical scenarios; build and incorporate automated unit tests and participate in integration testing efforts; work with architecture/engineering leads and other teams to ensure quality solutions are implemented, and engineering best practices are defined and adhered to; and work across teams to resolve operational and performance issues. Telecommuting is available from anywhere in the U.S., except from AK, AL, AR, DE, HI, IA, ID, IN, KS, KY, LA, MT, ND, NE, NH, NM, NV, OH, OK, RI, SD, VT, WV, and WY.  Employer will accept a Master’s Degree in Computer Science, Engineering, Computer Information Systems, Electronics and Communications, or Technology and 2 years of experience in the job offered or a data engineering related occupation.  Experience must include: Programming languages such as Python, Java, and Scala Big Data Frameworks such as Hadoop, Hive, Spark, and Databricks ETL Tools such as Informatica and PLSQL Scripting such as Unix, and PowerShell Databases, such as Oracle, MYSQL, SQL Server, Teradata, and Snowflake Cloud Technologies such as AWS, Azure Cloud, EC2, S3, Azure Blob, API Gateway, Aurora, EC2, RDS, Elastic Cache, and Spark Streaming Analytics Tools, such as Tableau and Azure Analysis Services Agile Teams Source Control tools such as Github and related dev process Airflow Apply at www.jobs.nike.com (Job #R-51131). #LI-DNIWe are committed to fostering a diverse and inclusive environment for all employees and job applicants. We offer a number of accommodations to complete our interview process including screen readers, sign language interpreters, accessible and single location for in-person interviews, closed captioning, and other reasonable modifications as needed. If you discover, as you navigate our application process, that you need assistance or an accommodation due to a disability, please complete the Candidate Accommodation Request Form.
+
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a
+                            generous total rewards
+                            package, casual work environment, a diverse and inclusive culture, and an electric
+                            atmosphere for professional
+                            development. No matter the location, or the role, every Nike employee shares one galvanizing
+                            mission: To bring
+                            inspiration and innovation to every athlete* in the world.
+NIKE, Inc. is an equal opportunity employer. Qualified applicants will receive
+                            consideration without
+                            regard to race, color, religion, sex, national origin, age, sexual orientation, gender
+                            identity, gender expression,
+                            veteran status, or disability.
+
+
+
+
+                                Apply Now
+                            
+
+
+
+
+
+
+Share Job
+
+
+
+
+Share Job Posting
+
+
+
+
+
+
+Faceboox
+Opens In A New Tab
+
+
+
+
+
+
+
+LinkedIn
+Link Opens In New Window
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+Close-Medium (Default Size)-icon
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+What You Can Expect
+OUR HIRING GAME PLAN
+
+
+01 Apply
+Our teams are made up of diverse skillsets, knowledge bases, inputs, ideas and backgrounds.
+                            We want you to find your fit – review job descriptions, departments and teams to discover
+                            the role for you.
+
+
+02 Meet a Recruiter or Take an Assessment
+If selected for a corporate role, a recruiter will reach out to start your interview process
+                            and be your main contact
+                            throughout the process. For retail roles, you’ll complete an interactive assessment that
+                            includes a chat and quizzes and
+                            takes about 10-20 minutes to complete.  No matter the role, we want to learn about you – the
+                            whole you – so don’t shy
+                            away from how you approach world-class service and what makes you unique.
+
+
+03 Interview
+Go into this stage confident by doing your research, understanding what we are looking for
+                            and being prepared for
+                            questions that are set up to learn more about you, and your background.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About Us
+
+
+Contact
+
+
+Talent Community
+
+
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+                   
+                    Nike Applicant Privacy Policy
+                    
+
+
+
+
+
+We offer a number of accommodations to complete our interview process including screen readers, sign language interpreters,
+                accessible and single location for in-person interviews, closed captioning, and other reasonable modifications as
+                needed.
+
+
+If you discover, as you navigate our application process, that you need assistance or an accommodation due to a
+                disability, please contact us at +1 503-671-4156 and include your full name, best way to reach you, and the
+                accommodation you request to assist with the application process.
+For more information, please refer to Equal Employment
+                        Opportunity is The Law.
+
+
+
+©  Nike, Inc. All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+Chat
+Chat with our AI Assistant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
