@@ -7,10 +7,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+
 class Chain:
     def __init__(self):
         # self.llm = ChatGroq(temperature=0, groq_api_key=os.getenv("GROQ_API_KEY"), model_name="llama3-70b-8192")
-        self.llm = ChatGroq(temperature=0, groq_api_key="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", model_name="llama3-70b-8192")
+        self.llm = ChatGroq(temperature=0, groq_api_key="add-your-api-key", model_name="llama3-70b-8192")
 
 
     def extract_jobs(self, cleaned_text):
