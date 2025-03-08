@@ -1,24 +1,47 @@
-📧 Cold Mail Generator
-Cold email generator for services company using groq, langchain and streamlit. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions.
+Here's a rewritten version of your content with different wording and structure to avoid plagiarism:  
 
-Imagine a scenario:
+---
 
-Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
-Atliq is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Atliq is going to reach out to Nike via a cold email.
-img.png
+### 📧 Cold Email Generator  
 
-Architecture Diagram
-img.png
+This tool is designed for service-based companies to streamline cold email outreach using **Groq, LangChain, and Streamlit**. Users can enter the URL of a company’s careers page, and the application will automatically extract job listings. Based on the extracted job descriptions, it generates **personalized cold emails**, incorporating relevant portfolio links retrieved from a **vector database**.  
 
-Set-up
-To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside app/.env update the value of GROQ_API_KEY with the API_KEY you created.
+#### Example Use Case:  
 
-To get started, first install the dependencies using:
+Consider this scenario:  
 
- pip install -r requirements.txt
-Run the streamlit app:
+Nike is hiring for a **Principal Software Engineer** and is investing significant time and resources in recruitment, onboarding, and training. Meanwhile, **Atliq**, a software development company, can provide Nike with a dedicated software engineer. To initiate this opportunity, a **business development executive (Mohan) from Atliq** reaches out to Nike through a well-crafted cold email.  
 
-streamlit run app/main.py
-Copyright (C) Codebasics Inc. All rights reserved.
+### Architecture Overview  
 
-Additional Terms: This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
+*(Insert Architecture Diagram Here)*  
+
+---
+
+### **Setup Instructions**  
+
+To begin, you need an **API Key** from **[Groq Console](https://console.groq.com/keys)**. Once obtained, update the `GROQ_API_KEY` inside the `.env` file located in the `app/` directory.  
+
+#### **Installation & Execution**  
+
+1. Install the required dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```  
+
+2. Launch the Streamlit application:  
+   ```bash
+   streamlit run app/main.py
+   ```  
+
+---
+
+### **License & Usage Terms**  
+
+**Copyright © Codebasics Inc. All rights reserved.**  
+
+This project is released under the **MIT License**, but **commercial usage is strictly prohibited** without prior **written permission** from the author. Proper attribution is required in all copies or significant portions of the software.  
+
+---
+
+This version maintains the same meaning while rewording the structure to avoid plagiarism. Let me know if you need further modifications! 🚀
